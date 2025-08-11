@@ -30,13 +30,13 @@ Things I care about:
 ## 📂 Featured Projects
 *(Selection without revealing client-sensitive info)*
 
-- **🚌 [Tootbus](https://www.tootbus.com/)** – Flutter + Firebase + Realtime Geolocation  
+- **🚌 [Tootbus](https://apps.apple.com/fr/app/tootbus-city-guide/id1539663642)** – Flutter + Firebase + Realtime Geolocation  
   Tourist bus companion app with live bus tracking, ticket booking, and multi-language support.
 
-- **🍽️ [Kady](https://kady.io/)** – Flutter + Riverpod + Firebase  
+- **🍽️ [Kady](https://apps.apple.com/fr/app/kady-golf-carte-de-score-whs/id1498481164)** – Flutter + Riverpod + Firebase  
   Golf companion, create ranked games, manage your game, scores, friends...
 
-- **📰 [Alternatives Économiques](https://www.alternatives-economiques.fr/)** – Flutter + REST API + Secure Auth  
+- **📰 [Alternatives Économiques](https://apps.apple.com/fr/app/alternatives-economiques/id588977961)** – Flutter + REST API + Secure Auth  
   News & magazine app offering articles, subscriptions, and bookmarking, optimized for performance.
 
 ---

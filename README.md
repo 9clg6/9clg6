@@ -41,25 +41,6 @@ Things I care about:
 
 ---
 
-## 🛠️ Toolbox
-| **Category**        | **Tech**                                   |
-|---------------------|--------------------------------------------|
-| Mobile Frameworks   | Flutter, Dart                              |
-| State Management    | Riverpod, Provider, Bloc (learning)        |
-| Backend Integration | REST APIs, Firebase, PostGres...           |
-| Tools & Automation  | GitLab, Fastlane (CI/CD)                   |
-| Other               | Git, Scrum/Agile, Unit/Widget Tests        |
-
----
-
-## 💡 Fun Facts
-- 🧠 Can switch from UI design to API debugging without breaking flow  
-- ☕ Coffee is 80% of my commit energy  
-- 🔍 Obsessive about clean commit history  
-- 🎯 Always chasing the "aha!" moment in problem-solving
-
----
-
 ## 🤝 Let's Connect
 > Open to collaborations, side projects, and learning opportunities.  
 

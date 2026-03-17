@@ -15,37 +15,12 @@
 
 ---
 
-## 🌟 My Flutter Journey
-From my first `Hello World` widget to shipping complex apps used by thousands of people,  
-I've been focused on **creating smooth, intuitive, and performant mobile experiences**.  
-
-Things I care about:  
-- ✨ Pixel-perfect UI with great UX  
-- 🏎️ Performance (60fps is my minimum)  
-- 🧪 Unit & widget testing for maintainable code  
-- 🔄 Continuous improvement through refactoring & automation  
-
----
-
 ## 📂 Featured Projects
-*(Selection without revealing client-sensitive info)*
 
-- **🚌 [Tootbus](https://apps.apple.com/fr/app/tootbus-city-guide/id1539663642)** – Flutter + Firebase + Realtime Geolocation  
-  Tourist bus companion app with live bus tracking, ticket booking, and multi-language support.
+- **💬 [Twake Chat]([https://apps.apple.com/fr/app/tootbus-city-guide/id1539663642](https://apps.apple.com/us/app/twake-chat/id6473384641?l=fr-FR))** – Flutter ; Chat application based on Matrix Protocol
 
-- **🍽️ [Kady](https://apps.apple.com/fr/app/kady-golf-carte-de-score-whs/id1498481164)** – Flutter + Riverpod + Firebase  
-  Golf companion, create ranked games, manage your game, scores, friends...
+- **🚌 [Tootbus](https://apps.apple.com/fr/app/tootbus-city-guide/id1539663642)** – Flutter + Firebase + Realtime Geolocation Tourist bus companion app with live bus tracking, ticket booking, and multi-language support.
 
-- **📰 [Alternatives Économiques](https://apps.apple.com/fr/app/alternatives-economiques/id588977961)** – Flutter + REST API + Secure Auth  
-  News & magazine app offering articles, subscriptions, and bookmarking, optimized for performance.
+- **🍽️ [Kady](https://apps.apple.com/fr/app/kady-golf-carte-de-score-whs/id1498481164)** – Flutter + Riverpod + Firebase Golf companion, create ranked games, manage your game, scores, friends...
 
----
-
-## 🤝 Let's Connect
-> Open to collaborations, side projects, and learning opportunities.  
-
-💬 **Ask me about**: Flutter, app architecture, state management, CI/CD, or how to survive 3 AM debugging sessions.
-
----
-
-*"Code is never finished, only shipped."*
+- **📰 [Alternatives Économiques](https://apps.apple.com/fr/app/alternatives-economiques/id588977961)** – Flutter + REST API + Secure Auth News & magazine app offering articles, subscriptions, and bookmarking, optimized for performance.

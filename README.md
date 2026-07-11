@@ -25,7 +25,7 @@
 
 ## 📂 Featured Projects I worked on :
 
-- **💬 [Twake Chat]([https://apps.apple.com/fr/app/tootbus-city-guide/id1539663642](https://apps.apple.com/us/app/twake-chat/id6473384641?l=fr-FR))** – Flutter ; Chat application based on Matrix Protocol
+- **💬 [Twake Chat](github.com/linagora/twake-on-matrix)** – Flutter ; Chat application based on Matrix Protocol
 
 - **🚌 [Tootbus](https://apps.apple.com/fr/app/tootbus-city-guide/id1539663642)** – Flutter + Firebase + Realtime Geolocation Tourist bus companion app with live bus tracking, ticket booking, and multi-language support.
 

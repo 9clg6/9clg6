@@ -4,18 +4,22 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 About Me :
 - 🎓 **Degrees**: Computer Science & Software Engineering, Master Degree
-- 📱 **Current Role**: Building production-grade mobile apps with **Flutter** (4+ years of experience)  
-- 🛠️ **Main Stack**: `Flutter` • `Dart` • `Riverpod` • `REST APIs` • `Firebase` & more
-- 🧩 **Currently Learning**:
-  - 📦 **BloC** for state management mastery  
-  - ⚙️ **CI/CD** pipelines to automate build, test & deploy  
-  - 🚦 Advanced performance optimization in Flutter
+- 📱 **Current Role**: Mobile-Software Engineer for Linagora - PARIS(France)
+- 🛠️ **Main Stack**: `Flutter` • `Dart` more
 
 ---
 
-## 📂 Featured Projects
+## 🏦 My open-sourced discontinued startups :
+- [Beedle](https://github.com/9clg6/Beedle), transforms your veille's screenshots to reviewable notes that sends you notifications
+- [Welly](https://github.com/9clg6/Welly), 3 good things in your day, 3 reasons why it happened, to improve your wellness
+- [iciTranscript](https://github.com/9clg6/iciTranscript), transcription tool to improve your english, take meetings-note and translate in live
+- [iciArtisan](https://ici-artisan.fr) find a handyman easily like Doctolib, 470.000 handymen referenced, 220 users
+
+---
+
+## 📂 Featured Projects I worked on :
 
 - **💬 [Twake Chat]([https://apps.apple.com/fr/app/tootbus-city-guide/id1539663642](https://apps.apple.com/us/app/twake-chat/id6473384641?l=fr-FR))** – Flutter ; Chat application based on Matrix Protocol
 

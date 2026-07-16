@@ -14,6 +14,7 @@
 
 - **👷 [iciArtisan](https://ici-artisan.fr)** find a handyman easily like Doctolib, 470.000 handymen referenced, 220 users
 - **🧙 [Unveel](https://www.unveel.fr/)** prompt the informations you need about prospect and we give you a fresh list
+- **🩷 [Pinkall](https://www.pinkall.app/)** Cold / Sales call live-coach with statistics
 
 ---
 

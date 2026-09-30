@@ -1,4 +1,4 @@
-# 🚀 Hey, I'm a Flutter Developer Who Loves Turning Ideas into Apps  
+# Clément Guyon-Buscher
 
 > *"Clean code, bold ideas, and zero fear of the unknown."*
 

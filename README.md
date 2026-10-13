@@ -14,7 +14,6 @@
 
 - **👷 [iciArtisan](https://ici-artisan.fr)** find a handyman easily like Doctolib, 470.000 handymen referenced, 220 users
 - **🧙 [Unveel](https://www.unveel.fr/)** prompt the informations you need about prospect and we give you a fresh list
-- **🩷 [Pinkall](https://www.pinkall.app/)** Cold / Sales call live-coach with statistics
 
 ---
 
@@ -22,6 +21,7 @@
 - **📝 [Beedle](https://github.com/9clg6/Beedle)**, transforms your veille's screenshots to reviewable notes that sends you notifications
 - **🧠 [Welly](https://github.com/9clg6/Welly)**, 3 good things in your day, 3 reasons why it happened, to improve your wellness
 - **🎤 [iciTranscript](https://github.com/9clg6/iciTranscript)**, transcription tool to improve your english, take meetings-note and translate in live
+- **🩷 [Pinkall](https://www.pinkall.app/)** Cold / Sales call live-coach with statistics
 
 ---
 

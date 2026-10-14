@@ -12,7 +12,7 @@
 ---
 ## 🏦 My close-source startups :
 
-- **👷 [iciArtisan](https://ici-artisan.fr)** find a handyman easily like Doctolib, 470.000 handymen referenced, 220 users
+- **👷 [iciArtisan](https://ici-artisan.fr)** find a handyman easily like Doctolib, 470.000 handymen referenced, 500 active users
 - **🧙 [Unveel](https://www.unveel.fr/)** prompt the informations you need about prospect and we give you a fresh list
 
 ---

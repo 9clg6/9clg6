@@ -12,7 +12,7 @@
 ---
 ## 🏦 My close-source startups :
 
-- **👷 [iciArtisan](https://ici-artisan.fr)** find a handyman easily like Doctolib, 470.000 handymen referenced, 500 active users
+- **👷 [iciArtisan](https://ici-artisan.fr)** – **500 active users** ; find a handyman easily like Doctolib, 470.000 handymen referenced
 - **🧙 [Unveel](https://www.unveel.fr/)** prompt the informations you need about prospect and we give you a fresh list
 
 ---
@@ -28,10 +28,10 @@
 ## 📂 Featured Projects I worked on :
 
 - **💬 [Twake Chat (open-source)](https://github.com/linagora/twake-on-matrix/)** – Flutter ; Chat application based on Matrix Protocol
-- **🔐 [Protected](https://www.protected.eu/)** – Flutter ; Web security startup for individuals, 150,000+ customers
+- **🔐 [Protected](https://www.protected.eu/)** – **150,000+ customers** ; Flutter ; Web security startup for individuals
 - **📚 [Marcel](https://www.marcel-lit.fr/)** – Flutter ; Meeting app for book readers
 - **🚌 [Tootbus](https://apps.apple.com/fr/app/tootbus-city-guide/id1539663642)** – Flutter ; Realtime Geolocation Tourist bus companion app with live bus tracking, ticket booking, and multi-language support.
-- **🍽️ [Kady](https://apps.apple.com/fr/app/kady-golf-carte-de-score-whs/id1498481164)** – Flutter ; Golf companion, create ranked games, manage your game, scores, friends... 320,000+ users
+- **🍽️ [Kady](https://apps.apple.com/fr/app/kady-golf-carte-de-score-whs/id1498481164)** – **320,000+ users** ; Flutter ; Golf companion, create ranked games, manage your game, scores, friends...
 - **📰 [Alternatives Économiques](https://apps.apple.com/fr/app/alternatives-economiques/id588977961)** – Flutter ; News & magazine app offering articles, subscriptions, and bookmarking, optimized for performance.
 
 ---

@@ -2,12 +2,13 @@
 
 > *"Clean code, bold ideas, and zero fear of the unknown."*
 
+
 ---
 
 ## 🧑‍💻 About Me :
 - 🎓 **Degrees**: Computer Science & Software Engineering, Master Degree
-- 📱 **Current Role**: Mobile-Software Engineer for Linagora - PARIS(France)
-- 🛠️ **Main Stack**: `Flutter` • `Dart` more
+- 📱 **Current Role**: Lead AI Engineer for Linagora - PARIS(France)
+- 🛠️ **Main Stack**: `Anthropic` • `OpenAI` • `TypeSafe(Jev)` • `LangGraph` • `React` • `Flutter` • `Dart` more
 
 ---
 ## 🏦 My close-source startups :

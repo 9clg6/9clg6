@@ -10,6 +10,8 @@
 - 📱 **Current Role**: Lead AI Engineer for Linagora - PARIS(France)
 - 🛠️ **Main Stack**: `Anthropic` • `OpenAI` • `TypeSafe(Jev)` • `LangGraph` • `React` • `Flutter` • `Dart` more
 
+<img width="800" height="600" alt="Post Linagora" src="https://github.com/user-attachments/assets/53c8f8b5-48fc-4626-aabb-2764a5f9b0af" />
+
 ---
 ## 🏦 My close-source startups :
 

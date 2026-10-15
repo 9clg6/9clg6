@@ -25,6 +25,7 @@
 - **🧠 [Welly](https://github.com/9clg6/Welly)**, 3 good things in your day, 3 reasons why it happened, to improve your wellness
 - **🎤 [iciTranscript](https://github.com/9clg6/iciTranscript)**, transcription tool to improve your english, take meetings-note and translate in live
 - **🩷 [Pinkall](https://www.pinkall.app/)** Cold / Sales call live-coach with statistics
+- **🗣️ [nemotron-diar-mlx](https://github.com/9clg6/nemotron-diar-mlx)**, NVIDIA Nemotron 3 Diarization ported to Apple MLX: "who spoke when" on-device on any Mac, ~140× real time, offline and live streaming
 
 ---
 

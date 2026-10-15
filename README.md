@@ -25,7 +25,6 @@
 - **🧠 [Welly](https://github.com/9clg6/Welly)**, 3 good things in your day, 3 reasons why it happened, to improve your wellness
 - **🎤 [iciTranscript](https://github.com/9clg6/iciTranscript)**, transcription tool to improve your english, take meetings-note and translate in live
 - **🩷 [Pinkall](https://www.pinkall.app/)** Cold / Sales call live-coach with statistics
-- **🗣️ [nemotron-diar-mlx](https://github.com/9clg6/nemotron-diar-mlx)**, NVIDIA Nemotron 3 Diarization ported to Apple MLX: "who spoke when" on-device on any Mac, ~140× real time, offline and live streaming
 
 ---
 
@@ -46,3 +45,4 @@
 - **🎥 [La Suite Meet](https://github.com/suitenumerique/meet)** – Python ; French government's video conferencing app powered by LiveKit — [Mint LiveKit tokens for delegated users in the external API](https://github.com/suitenumerique/meet/pull/1796)
 - **🎙️ [LinTO Meet](https://github.com/linto-ai/meet)** – Python ; LinTO's video conferencing app powered by LiveKit — [LiveKit tokens for delegated users in the external API](https://github.com/linto-ai/meet/pull/6)
 - **📞 [Telnyx Flutter Voice SDK](https://github.com/team-telnyx/flutter-voice-sdk)** – Flutter ; WebRTC / SIP voice SDK — [macOS: wait for WebRTC trickle ICE completion](https://github.com/team-telnyx/flutter-voice-sdk/pull/298) • [macOS: add a supported voice integration path](https://github.com/team-telnyx/flutter-voice-sdk/pull/299)
+- **🗣️ [nemotron-diar-mlx](https://github.com/9clg6/nemotron-diar-mlx)** – Python / MLX ; Port of [NVIDIA Nemotron 3 Diarization](https://huggingface.co/nvidia/Nemotron-3-Diarization) to Apple Silicon — "who spoke when" on-device on any Mac, ~140× real time, offline & live streaming

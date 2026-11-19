@@ -24,6 +24,7 @@
 - **📝 [Beedle](https://github.com/9clg6/Beedle)**, transforms your veille's screenshots to reviewable notes that sends you notifications
 - **🧠 [Welly](https://github.com/9clg6/Welly)**, 3 good things in your day, 3 reasons why it happened, to improve your wellness
 - **🎤 [iciTranscript](https://github.com/9clg6/iciTranscript)**, transcription tool to improve your english, take meetings-note and translate in live
+- **🕸️ [defluance](https://github.com/9clg6/defluance)**, specs, decisions and issues as one linked graph, for your team and your AI agents (RAG with cited answers + MCP server)
 - **🩷 [Pinkall](https://www.pinkall.app/)** Cold / Sales call live-coach with statistics
 
 ---
@@ -42,7 +43,9 @@
 ## 🌍 Open-source projects I contributed :
 - **📧 [Apache James](https://github.com/apache/james-project)** – Java ; Mail server (SMTP, IMAP, JMAP) — [JMAP Web Push: VAPID (RFC 9749) & browser support](https://github.com/apache/james-project/pull/3249)
 - **🔐 [matrix-js-sdk](https://github.com/matrix-org/matrix-js-sdk)** – TypeScript ; Matrix Client-Server SDK — [Add `CryptoApi.setDeviceBlocked`](https://github.com/matrix-org/matrix-js-sdk/pull/5613)
+- **🏠 [Synapse](https://github.com/element-hq/synapse)** – Python ; Matrix homeserver — [Send a room down sliding sync again once its partial state is resolved](https://github.com/element-hq/synapse/pull/20484)
 - **🎥 [La Suite Meet](https://github.com/suitenumerique/meet)** – Python ; French government's video conferencing app powered by LiveKit — [Mint LiveKit tokens for delegated users in the external API](https://github.com/suitenumerique/meet/pull/1796)
-- **🎙️ [LinTO Meet](https://github.com/linto-ai/meet)** – Python ; LinTO's video conferencing app powered by LiveKit — [LiveKit tokens for delegated users in the external API](https://github.com/linto-ai/meet/pull/6)
+- **🎙️ [LinTO Meet](https://github.com/linto-ai/meet)** – Python ; LinTO's video conferencing app powered by LiveKit — [LiveKit tokens for delegated users in the external API](https://github.com/linto-ai/meet/pull/6) • [`/embed/<uuid>`: room joined with a token given by the host page](https://github.com/linto-ai/meet/pull/16) • [Meet as the service of a Cozy intent](https://github.com/linto-ai/meet/pull/18)
 - **📞 [Telnyx Flutter Voice SDK](https://github.com/team-telnyx/flutter-voice-sdk)** – Flutter ; WebRTC / SIP voice SDK — [macOS: wait for WebRTC trickle ICE completion](https://github.com/team-telnyx/flutter-voice-sdk/pull/298) • [macOS: add a supported voice integration path](https://github.com/team-telnyx/flutter-voice-sdk/pull/299)
 - **🗣️ [nemotron-diar-mlx](https://github.com/9clg6/nemotron-diar-mlx)** – Python / MLX ; Port of [NVIDIA Nemotron 3 Diarization](https://huggingface.co/nvidia/Nemotron-3-Diarization) to Apple Silicon — "who spoke when" on-device on any Mac, ~140× real time, offline & live streaming
+- **🦀 [twake-chat-macos-rust](https://github.com/9clg6/twake-chat-macos-rust)** – Rust / GPUI ; Native macOS client for Twake Chat (Matrix), no Electron
